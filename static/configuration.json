@@ -11,7 +11,7 @@
   "mini":false,
   "webSites":[
     {"name":"CSDN","url":"https://blog.csdn.net/dmt742055597"},
-    {"name":"Hexo-blog","url":"http://blog.monty.site/"}
+    {"name":"Hexo-blog","url":"http://hexo.blog.monty.site/"}
   ],
   "audioAutoPlay":true
 }
